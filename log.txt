@@ -1,0 +1,17 @@
+16/05/2018 08:27:09am - log gerado.
+
+16/05/2018 08:27:09am - log gerado2.
+
+16/05/2018 08:27:09am - log gerado3.
+
+16/05/2018 08:27:09am - log gerado4.
+
+16/05/2018 08:27:46am - log gerado.
+16/05/2018 08:27:46am - log gerado2.
+16/05/2018 08:27:46am - log gerado3.
+16/05/2018 08:27:46am - log gerado4.
+16/05/2018 08:31:49am - log gerado.
+16/05/2018 08:31:49am - log gerado2.
+16/05/2018 08:31:49am - log gerado3.
+16/05/2018 08:31:49am - log gerado4.
+16/05/2018 08:31:49am - erro 404.
